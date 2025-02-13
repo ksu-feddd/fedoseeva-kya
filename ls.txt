@@ -1,0 +1,9 @@
+total 28K
+drwxr-xr-x  3 root root 4.0K Feb 13 21:33 ./
+drwxr-x--- 16 ksu  ksu  4.0K Feb 13 21:11 ../
+-rw-r--r--  1 root root  592 Feb 13 21:29 config.txt
+-rw-r--r--  1 root root  147 Feb 13 21:13 first.txt
+drwxr-xr-x  8 root root 4.0K Feb 13 21:32 .git/
+-rw-r--r--  1 root root    0 Feb 13 21:33 ls.txt
+-rw-r--r--  1 root root   23 Feb 13 21:11 README.md
+-rw-r--r--  1 root root  199 Feb 13 21:13 status.txt
